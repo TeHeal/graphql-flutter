@@ -15,12 +15,12 @@ dependencies:
   gql_error_link: 
   gql_dedupe_link: 
   hive: 
-  normalize: '>=0.8.2 <0.10.0'
+  normalize: 
   http: 
   collection: 
-  web_socket_channel: '>=2.3.0 <=2.4.0'
+  web_socket_channel:
   stream_channel: 
-  rxdart: '>=0.27.1 <0.29.0'
+  rxdart: 
   uuid: 
 
 dev_dependencies:
